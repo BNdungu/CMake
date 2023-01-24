@@ -1,0 +1,6 @@
+/home/brian/CMake/build/CMakeFiles/CMake_tutorial.dir
+/home/brian/CMake/build/CMakeFiles/edit_cache.dir
+/home/brian/CMake/build/CMakeFiles/rebuild_cache.dir
+/home/brian/CMake/build/header/CMakeFiles/add.dir
+/home/brian/CMake/build/header/CMakeFiles/edit_cache.dir
+/home/brian/CMake/build/header/CMakeFiles/rebuild_cache.dir

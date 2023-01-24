@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/CMake_tutorial.dir/main.c.o -o CMake_tutorial   -L/home/brian/CMake/header  -Wl,-rpath,/home/brian/CMake/header header/libadd.a 
